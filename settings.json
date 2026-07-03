@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "SoloCloudHosting",
+    "username": "donotkillme",
     "password": "",
     "type": "offline"
   },
@@ -9,7 +9,7 @@
     "ip": "Frends4ever.aternos.me",
     "port": 63295,
     "version": "1.20.1",
-    "try-creative": false
+    "try-creative": true
   },
   "position": {
     "enabled": true,
@@ -27,8 +27,8 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
-      "repeat": true,
+      "enabled": false,
+      "repeat": false,
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
@@ -45,8 +45,8 @@
     "enabled": true,
     "circle-walk": {
       "enabled": true,
-      "radius": 4,
-      "speed": 3000
+      "radius": 2,
+      "speed": 1000
     },
     "look-around": {
       "enabled": true,
@@ -82,6 +82,6 @@
     }
   },
   "chat": {
-    "respond": true
+    "respond": false
   }
 }
