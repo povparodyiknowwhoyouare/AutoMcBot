@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "TheD1amondSMP.play.hosting",
-    "port": 23607,
+    "port": ,
     "version": "1.20.1",
     "try-creative": true
   },
