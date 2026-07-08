@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Frends4ever.aternos.me",
-    "port": 63295,
+    "ip": "TheD1amondSMP.play.hosting",
+    "port": 23607,
     "version": "1.20.1",
     "try-creative": true
   },
@@ -19,7 +19,7 @@
   },
   "utils": {
     "auto-auth": {
-      "enabled": true,
+      "enabled": false,
       "password": "SoloPlayz"
     },
     "anti-afk": {
