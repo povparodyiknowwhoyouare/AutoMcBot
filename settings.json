@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "TheD1amondSMP.play.hosting",
-    "port": 25565,
+    "ip": "thediamondsmp.falix.gg",
+    "port": 21800,
     "version": "1.20.1",
     "try-creative": true
   },
