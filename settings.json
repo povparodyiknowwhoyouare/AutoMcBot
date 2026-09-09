@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "thed1amondSMP.play.hosting",
-    "port": 25565,
+    "ip": "TheOneBlox.aternos.me",
+    "port": 64801,
     "version": "1.20.1",
     "try-creative": true
   },
