@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "TheOneBlox.aternos.me",
-    "port": 64801,
+    "ip": "theoneblock.tkmc.net",
+    "port": 25565,
     "version": "1.20.1",
     "try-creative": true
   },
